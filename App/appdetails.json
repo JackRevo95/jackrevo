@@ -1,0 +1,18 @@
+
+
+{
+
+
+    "DB_AppData":[
+
+        {
+
+            "appversion":"2.0.1",
+            "updatemessage":"Fix Less Post & Add Audio.",
+            "engaudiourl":"https://jackrevo95.github.io/jackrevo/eng_music.json",
+            "mmaudiourl":"https://jackrevo95.github.io/jackrevo/mm_music.json",          
+            "engposturl":"https://jackrevo95.github.io/jackrevo/eng_post.json"
+            
+        }
+    ]
+}
