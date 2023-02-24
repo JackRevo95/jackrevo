@@ -1,6 +1,12 @@
 {
   "Music_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/we_are_clickers(256k).mp3",
+      "title": "We_Are_Clickers",
+      "duration": "02:50",
+      "music_img": "https://www.nicepng.com/png/full/1-10393_png-file-svg-music-icon-free-png.png"
+    },
+    {
       "path": "https://jackrevo95.github.io/jackrevo/Kyaut Khit Ko Maut Pyit Mal.mp3",
       "title": "Group_ကြောက်ခေတ်ကို မှေက်က်ပြစ်မယ်",
       "duration": "04:27",
