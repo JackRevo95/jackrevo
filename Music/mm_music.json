@@ -1,11 +1,24 @@
 {
   "Music_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/NwayOo_-_Kelvin_Thein(256k).mp3",
+      "title": "NwayOo_-_Kelvin_Thein",
+      "duration": "05:09",
+      "music_img": "https://jackrevo95.github.io/jackrevo/Nway Oo.jpg"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/Mone Tai Shi Yar.mp3",
+      "title": "မုန်တိုင်းရှိရာ",
+      "duration": "04:12",
+      "music_img": "https://jackrevo95.github.io/jackrevo/Mone Tai Shi Yar.jpg"
+    },
+    {
       "path": "https://jackrevo95.github.io/jackrevo/We_Are_The_World___Cover_By_CHINLUNG_CHUAK_ARTIST(256k).mp3",
       "title": "We_Are_The_World_Cover_By_CHINLUNG_CHUAK_ARTIST",
       "duration": "07:42",
       "music_img": "https://jackrevo95.github.io/jackrevo/We R The World.jpg"
-    },{
+    },
+    {
       "path": "https://jackrevo95.github.io/jackrevo/Lin Lin & R Zarni_Naut Sone Phyit Ya Mal.mp3",
       "title": "လင်းလင်း၊Rဇာနည်_နောက်ဆုံး ဖြစ်ရမယ်",
       "duration": "12:02",
