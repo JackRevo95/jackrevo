@@ -1,9 +1,21 @@
 {
   "AudioBook_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Nu Nu Yee(Inwa)- Shin Kwel[Min Lwin].mp3",
+      "mmtitle": "နုနုရည်(အင်းဝ)_[စာဖက်သူ_မင်းလွင်]",
+      "engtitle": "Nu Nu Yee(Inwa)- Shin Kwel[Min Lwin]",
+      "duration": "25:29",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+    },{
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Min Lwin - barwanar mar min muu thu.mp3",
+      "mmtitle": "မင်လွင်_ဘာဝနာမှာ မင်းမူသူ[စာဖက်သူ_မင်းလွင်]",
+      "engtitle": "Min Lwin - barwanar mar min muu thu",
+      "duration": "21:32",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+    },{
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Nay Win Myint - Song of Wharf by Grace~1.mp3",
       "mmtitle": "နေဝင်းမြင့်_မြစ်ဆိပ်ရဲ့ သီချင်း[စာဖက်သူ_Grace]",
-      "engtitle": "Nay Win Myint - Song of Wharf by Grace.mp3",
+      "engtitle": "Nay Win Myint - Song of Wharf by Grace",
       "duration": "15:15",
       "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
     },{
