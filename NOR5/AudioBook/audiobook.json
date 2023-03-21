@@ -1,8 +1,20 @@
 {
   "AudioBook_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Khin Khin Htoo-Alwann bridge[Recorded by Min Lwin].mp3",
+      "mmtitle": "ခင်ခင်ထူး_အလွမ်းတံတား[စာဖက်သူ_မင်းလွင်]",
+      "engtitle": "Khin Khin Htoo-Alwann bridge[Min Lwin]",
+      "duration": "19:00",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+    },{
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Khin Khin Htoo-Atwin Tain[Recorded by Min Lwin].mp3",
+      "mmtitle": "ခင်ခင်ထူး_အတွင်းတိမ်[စာဖက်သူ_မင်းလွင်]",
+      "engtitle": "Khin Khin Htoo-Atwin Tain[Min Lwin]",
+      "duration": "19:36",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+    },{
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Nu Nu Yee(Inwa)- Shin Kwel[Min Lwin].mp3",
-      "mmtitle": "နုနုရည်(အင်းဝ)_[စာဖက်သူ_မင်းလွင်]",
+      "mmtitle": "နုနုရည်(အင်းဝ)_ရှင်ကွဲ[စာဖက်သူ_မင်းလွင်]",
       "engtitle": "Nu Nu Yee(Inwa)- Shin Kwel[Min Lwin]",
       "duration": "25:29",
       "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
