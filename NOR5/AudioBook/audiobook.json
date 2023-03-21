@@ -19,6 +19,12 @@
       "duration": "15:15",
       "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
     },{
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Khin Khin Htoo-Ruby & Emerald by Grace.mp3",
+      "mmtitle": "ခင်ခင်ထူး_ပတ္တမြားတစ်ဖက် မြတစ်ဖက်[စာဖက်သူ_Grace]",
+      "engtitle": "Khin Khin Htoo-Ruby & Emerald by Grace",
+      "duration": "28:01",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+    },{
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Khin Khin Htoo- Sar Thin Set[Grace].mp3",
       "mmtitle": "ခင်ခင်ထူး_စာသင်စက်[စာဖက်သူ_Grace]",
       "engtitle": "Khin Khin Htoo- Sar Thin Set[Grace]",
@@ -33,28 +39,28 @@
     },{
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Luthar%20Man%20-%20Guest%20by%20Grace.mp3",
       "mmtitle": "လူသာမန် - Guest by Grace.mp3",
-      "engtitle": "Luthar Man - Guest by Grace.mp3",
+      "engtitle": "Luthar Man - Guest by Grace",
       "duration": "09:13",
       "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
     },
     {
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Mal Lwint - Psychopath by Grace.mp3",
-      "mmtitle": "မယ်လွင့် - Psychopath by Grace.mp3",
-      "engtitle": "Mal Lwint - Psychopath by Grace.mp3",
+      "mmtitle": "မယ်လွင့် - Psychopath by Grace",
+      "engtitle": "Mal Lwint - Psychopath by Grace",
       "duration": "11:52",
       "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
     },
     {
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Mal%20Lwint%20-%20September%2027%20by%20Grace.mp3",
-      "mmtitle": "မယ်လွင့် - စက်တင်ဘာ ၂၇ by Grace.mp3",
-      "engtitle": "Mal Lwint - September 27 by Grace.mp3",
+      "mmtitle": "မယ်လွင့် - စက်တင်ဘာ ၂၇ by Grace",
+      "engtitle": "Mal Lwint - September 27 by Grace",
       "duration": "10:38",
       "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
     },
     {
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Mal Lwint - The Girl Who Live In Cartoon by Grace.mp3",
-      "mmtitle": "မယ်လွင့် - ကာတွန်းထဲမှာနေတဲ့ မိန်းကလေး by Grace.mp3",
-      "engtitle": "Mal Lwint - The Girl Who Live In Cartoon by Grace.mp3",
+      "mmtitle": "မယ်လွင့် - ကာတွန်းထဲမှာနေတဲ့ မိန်းကလေး by Grace",
+      "engtitle": "Mal Lwint - The Girl Who Live In Cartoon by Grace",
       "duration": "13:02",
       "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
     }
