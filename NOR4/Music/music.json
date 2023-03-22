@@ -1,0 +1,39 @@
+{
+  "Music_DB": [
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/Dee%20D%20-%20%E1%80%85%E1%80%85%E1%80%BA%E1%80%81%E1%80%BD%E1%80%B1%E1%80%B8%E1%80%9E%E1%80%81%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8%20%E1%80%85%E1%80%85%E1%80%BA%E1%80%80%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8%E1%80%90%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8.m4a",
+      "mmtitle": "အစမ်း Music",
+      "engtitle": "Test Music 1",
+      "duration": "04:00",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/Dee%20D%20-%20%E1%80%A1%E1%80%94%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%9B%E1%80%99%E1%80%9A%E1%80%B7%E1%80%BA%E1%80%90%E1%80%AD%E1%80%AF%E1%80%80%E1%80%BA%E1%80%95%E1%80%BD%E1%80%B2.m4a",
+      "mmtitle": "အစမ်း Music",
+      "engtitle": "Test Music 2",
+      "duration": "03:54",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/Eain%20Mat%20Myoet%20Taw.mp3",
+      "mmtitle": "အစမ်း Music",
+      "engtitle": "Test Music 3",
+      "duration": "04:18",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/MWAY-SOE-GROUP.mp3",
+      "mmtitle": "အစမ်း Music",
+      "engtitle": "Test Music 4",
+      "duration": "03:28",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/N GEM - ငါတို့လာပြီ.m4a",
+      "mmtitle": "အစမ်း Music",
+      "engtitle": "Test Music 5",
+      "duration": "03:50",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+    }
+  ]
+}
