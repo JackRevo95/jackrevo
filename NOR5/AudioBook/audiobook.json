@@ -1,6 +1,11 @@
 {
   "AudioBook_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Nyar Na- Ma Ma Khin Sagaing Yout Fue Lar by Ko Thar Wut Hti.mp3",
+      "mmtitle": "ဉာဏ_မမခင် စစ်ကိုင်းတိုင်း ရောက်ဖူးလား [စာဖတ်သူ_Ko Thar Wut Hti]",
+      "engtitle": "Nyar Na- Ma Ma Khin Sagaing Yout Fue Lar[Ko Thar Wut Hti]",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/Ma Ma Khin.jpg"
+    },{
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Khin Khin Htoo-Alwann bridge[Recorded by Min Lwin].mp3",
       "mmtitle": "ခင်ခင်ထူး_အလွမ်းတံတား[စာဖတ်သူ_မင်းလွင်]",
       "engtitle": "Khin Khin Htoo-Alwann bridge[Min Lwin]",
@@ -14,12 +19,12 @@
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Nu Nu Yee(Inwa)- Shin Kwel[Min Lwin].mp3",
       "mmtitle": "နုနုရည်(အင်းဝ)_ရှင်ကွဲ[စာဖတ်သူ_မင်းလွင်]",
       "engtitle": "Nu Nu Yee(Inwa)- Shin Kwel[Min Lwin]",
-      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/Shinkwel.jpg"
     },{
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Min Lwin - barwanar mar min muu thu.mp3",
       "mmtitle": "မင်လွင်_ဘာဝနာမှာ မင်းမူသူ[စာဖတ်သူ_မင်းလွင်]",
       "engtitle": "Min Lwin - barwanar mar min muu thu",
-      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/Bawanar.jpg"
     },{
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Nay Win Myint - Song of Wharf by Grace~1.mp3",
       "mmtitle": "နေဝင်းမြင့်_မြစ်ဆိပ်ရဲ့ သီချင်း[စာဖတ်သူ_Grace]",
@@ -62,7 +67,7 @@
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Mal Lwint - The Girl Who Live In Cartoon by Grace.mp3",
       "mmtitle": "မယ်လွင့် - ကာတွန်းထဲမှာနေတဲ့ မိန်းကလေး by Grace",
       "engtitle": "Mal Lwint - The Girl Who Live In Cartoon by Grace",
-      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/logo_update-playstore.png"
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/mal lwint tgwlic_TY.jpg"
     }
   ]
 }
