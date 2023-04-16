@@ -1,6 +1,12 @@
 {
   "Music_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/Kyar_Pauk-_Oh_My_God.mp3",
+      "engtitle": "Kyar Pauk_Oh My God",
+      "mmtitle": "Kyar Pauk_Oh My God",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/Kyar Pauk_Oh My God.jpg"
+    },{
       "path": "https://jackrevo95.github.io/jackrevo/Min_Lun_-_Generation_L33(Official_Music_Video)(256k).mp3",
       "engtitle": "Min_Lun_-_Generation_L33",
       "mmtitle": "Min_Lun_-_Generation_L33",
