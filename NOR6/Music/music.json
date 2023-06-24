@@ -1,6 +1,18 @@
 {
   "Music_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/Naing Ko Naing Ya Mal_Sophia_Everest_,Key_Lashi_,Anonymous.mp3",
+      "engtitle": "Naing Ko Naing Ya Mal",
+      "mmtitle": "နိုင်ကိုနိုင်ရမယ်",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/Naing Ko Naing Ya Mal.jpg"
+    },{
+      "path": "https://jackrevo95.github.io/jackrevo/END_GAME_Yair_Yint_Aung,_NAY,_Adjustor,_Yung_Hugo,_GRACEe,_D_Vision.mp3",
+      "engtitle": "End Game Naing Ko Naing Ya Mal",
+      "mmtitle": "End Game နိုင်ကိုနိုင်ရမယ်",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/End Game Naing Ko Naing Ya Mal.jpg"
+    },{
       "path": "https://jackrevo95.github.io/jackrevo/Tay Htae Mar Naw.mp3",
       "engtitle": "Tay Htae Mar Naw",
       "mmtitle": "တေးထဲမှာနေ်",
