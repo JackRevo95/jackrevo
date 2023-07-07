@@ -1,6 +1,13 @@
 {
   "Music_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/Nyein Khant_Pyi Taw Win.mp3",
+      "engtitle": "Nyein Khant_Pyi Taw Win",
+      "mmtitle": "ငြိမ်းခန့်_ပြည်တော်ဝင်",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/Pyi Taw Win.jpg"
+    },
+    {
       "path": "https://jackrevo95.github.io/jackrevo/Naing Ko Naing Ya Mal_Sophia_Everest_,Key_Lashi_,Anonymous.mp3",
       "engtitle": "Naing Ko Naing Ya Mal",
       "mmtitle": "နိုင်ကိုနိုင်ရမယ်",
