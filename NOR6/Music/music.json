@@ -1,6 +1,20 @@
 {
   "Music_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/Thakhin Thaw_Thway Ma Aye Kyay Doe A Yah.mp3",
+      "engtitle": "Thakhin Thaw_Thway Ma Aye Kyay Doe A Yay",
+      "mmtitle": "သခင်သော_သွေးမအေးကြေး ဒို့အရေး",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/Thakhin Thaw_Thway Ma Aye Kyay Doe A Yah.jpg"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/Doe A Yay.mp3",
+      "engtitle": "Doe A Yay",
+      "mmtitle": "ဒို့အရေး",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/Doe A Yay.jpg"
+    },
+    {
       "path": "https://jackrevo95.github.io/jackrevo/Nyein Khant_Pyi Taw Win.mp3",
       "engtitle": "Nyein Khant_Pyi Taw Win",
       "mmtitle": "ငြိမ်းခန့်_ပြည်တော်ဝင်",
