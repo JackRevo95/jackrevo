@@ -1,6 +1,41 @@
 {
   "Music_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/Myanmar Pyi Pwar.mp3",
+      "engtitle": "Myanmar Pyi Pwar",
+      "mmtitle": "မြန်မာပြည်ဖွား",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/Myanmar Pyi Pwar.jpg"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/The Country We Live.mp3",
+      "engtitle": "The Country We live",
+      "mmtitle": "ငါတို့နေတဲ့တိုင်းပြည်",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/The Country We live.jpg"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/May Art_Yaung Ni A Lwan.mp3",
+      "engtitle": "May Art_Yaung Ni A Lwan",
+      "mmtitle": "May Art_ရောင်နီအလွမ်း",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/May Art_Yaung Ni A Lwan.jpg"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/Thakhin Thaw_Thway Ma Aye Kyay Doe A Yah.mp3",
+      "engtitle": "Thakhin Thaw_Thway Ma Aye Kyay Doe A Yay",
+      "mmtitle": "သခင်သော_သွေးမအေးကြေး ဒို့အရေး",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/Thakhin Thaw_Thway Ma Aye Kyay Doe A Yah.jpg"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/Doe A Yay.mp3",
+      "engtitle": "Doe A Yay",
+      "mmtitle": "ဒို့အရေး",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/Doe A Yay.jpg"
+    },
+    {
       "path": "https://jackrevo95.github.io/jackrevo/Nyein Khant_Pyi Taw Win.mp3",
       "engtitle": "Nyein Khant_Pyi Taw Win",
       "mmtitle": "ငြိမ်းခန့်_ပြည်တော်ဝင်",
