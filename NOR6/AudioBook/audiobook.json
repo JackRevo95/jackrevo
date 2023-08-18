@@ -1,6 +1,13 @@
 {
   "AudioBook_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/sly.ayy . full.mp3",
+      "mmtitle": "အရင့်ရောင်_ဆိုင်းလုရာ[စာဖတ်သူ_မင်းလွင်]",
+      "engtitle": "A Yint Yaung_Seng Lu Yar[Min Lwin]",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/sly.ayy.png"
+    },
+    {
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/MgChawNwe. train[Min Lwin].mp3",
       "mmtitle": "မောင်ချောနွယ်_ရထား[စာဖတ်သူ_မင်းလွင်]",
       "engtitle": "Mg Chaw Nwe_Train[Min Lwin]",
