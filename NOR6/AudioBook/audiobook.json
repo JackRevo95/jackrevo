@@ -1,6 +1,39 @@
 {
   "AudioBook_DB": [
     {
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/kcm1 no bg music.mp3",
+      "mmtitle": "အီလစ်_မခင်ချောမေ သို့(၁)[စာဖတ်သူ_မင်းလွင်]",
+      "engtitle": "Eilit_To Ma Khin Chaw May(1)[Min Lwin]",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/1.png"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/kcm2 no bg.mp3",
+      "mmtitle": "အီလစ်_မခင်ချောမေ သို့(၂)[စာဖတ်သူ_မင်းလွင်]",
+      "engtitle": "Eilit_To Ma Khin Chaw May(2)[Min Lwin]",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/Screenshot 2023-07-20 205636.png"
+    },
+    {
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/Lwan Thu.mp3",
+      "mmtitle": "၁။ရှုပ်လိုက်တဲ့စကားလုံးတွေ__၂။စောက်တလွဲနိုင်ငံတော်[စာ‌ရေးဖတ်သူ_လွမ်းသူ]",
+      "engtitle": "Shote Lite Tae Sakar Lone Tway,Saut Ta Lwel Country[Lwan Thu]",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/Screenshot (56).png"
+    },{
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/f.mp3",
+      "mmtitle": "လေလွင့်ငှက်_သွေးနဲ့ပွင့်ရတဲ့ ပန်း [စာဖတ်သူ_သောင်းရီ]",
+      "engtitle": "Lay Lwint Ngat_Thway Nae Pwint Ya Tae Flower[Min Lwin]",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/F.jpg"
+    },{
+      "path": "https://jackrevo95.github.io/jackrevo/AudioBook/sly.ayy . full.mp3",
+      "mmtitle": "အရင့်ရောင်_ဆိုင်းလုရာ[စာဖတ်သူ_မင်းလွင်]",
+      "engtitle": "A Yint Yaung_Seng Lu Yar[Min Lwin]",
+      "item_point": "1",
+      "music_img": "https://jackrevo95.github.io/jackrevo/AudioBook/sly.ayy.png"
+    },
+    {
       "path": "https://jackrevo95.github.io/jackrevo/AudioBook/MgChawNwe. train[Min Lwin].mp3",
       "mmtitle": "မောင်ချောနွယ်_ရထား[စာဖတ်သူ_မင်းလွင်]",
       "engtitle": "Mg Chaw Nwe_Train[Min Lwin]",
