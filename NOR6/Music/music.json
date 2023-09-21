@@ -1,6 +1,21 @@
 {
     "Music_DB": [
         {
+            "path": "https://jackrevo95.github.io/jackrevo/Emptiness_-_Daung(256k).mp3",
+            "engtitle": "Daung_Emptiness",
+            "mmtitle": "Daung_Emptiness",
+            "singer": "Daung",
+            "item_point": "1",
+            "music_img": "https://jackrevo95.github.io/jackrevo/Daung Emptiness.jpg"
+        },{
+            "path": "https://jackrevo95.github.io/jackrevo/Love..Come in.mp3",
+            "engtitle": "Daung_Love? Come in",
+            "mmtitle": "ဒေါင်း_အချစ်လားဟေ့ ဝင်ခဲ့လေကွယ်",
+            "singer": "Daung",
+            "item_point": "1",
+            "music_img": "https://jackrevo95.github.io/jackrevo/Love..Come in.jpg"
+        },
+        {
             "path": "https://jackrevo95.github.io/jackrevo/Call of Battle (online-audio-converter.com).mp3",
             "engtitle": "Cowboy_Call of Battle",
             "mmtitle": "နွားကျောင်းသား_တိုက်ပွဲခေါ်သံ",
