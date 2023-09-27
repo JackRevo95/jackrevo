@@ -1,6 +1,20 @@
 {
     "Music_DB": [
         {
+            "path": "https://jackrevo95.github.io/jackrevo/Sacrifice_with_ogre_music_Cover_by_Saw_Kaw.mp3",
+            "engtitle": "Blue Sai Nae Pu Zaw Chin",
+            "mmtitle": "ဘီလူးဆိုင်းနဲ့ ပူဇော်ခြင်း",
+            "singer": "Saw Kaw(Cobra Column)",
+            "item_point": "1",
+            "music_img": "https://jackrevo95.github.io/jackrevo/photo_2023-09-27_22-15-55.jpg"
+        },{
+            "path": "https://jackrevo95.github.io/jackrevo/ဖြူဖြူ​ကျော်သိန်း_ကောက်ရိုးမီး256k.mp3",
+            "engtitle": "Phyu Phyu Kyaw Thein_Kuat Yoe Mee",
+            "mmtitle": "ဖြူဖြူကျော်သိန်း_ကောက်ရိုးမီး",
+            "singer": "Phyu Phyu Kyaw Thein",
+            "item_point": "1",
+            "music_img": "https://jackrevo95.github.io/jackrevo/photo_2023-09-27_22-15-48.jpg"
+        },{
             "path": "https://jackrevo95.github.io/jackrevo/Emptiness_-_Daung(256k).mp3",
             "engtitle": "Daung_Emptiness",
             "mmtitle": "Daung_Emptiness",
