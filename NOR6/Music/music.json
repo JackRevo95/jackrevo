@@ -1,6 +1,13 @@
 {
     "Music_DB": [
         {
+            "path": "https://jackrevo95.github.io/jackrevo/Nay Ma Win Khin Nae Kwel Thwar Tae naet.mp3",
+            "engtitle": "Nay Ma Win Khin Nay Kwel Thwar Tae Naet",
+            "mmtitle": "နေမဝင်ခင် နေကွယ်သွားတဲ့နေ့ ",
+            "singer": "Sann Min Paing",
+            "item_point": "1",
+            "music_img": "https://jackrevo95.github.io/jackrevo/Nay Ma Win Khin Nay Kwel Thwar Tae naet.jpg"
+        },{
             "path": "https://jackrevo95.github.io/jackrevo/Sacrifice_with_ogre_music_Cover_by_Saw_Kaw.mp3",
             "engtitle": "Blue Sai Nae Pu Zaw Chin",
             "mmtitle": "ဘီလူးဆိုင်းနဲ့ ပူဇော်ခြင်း",
