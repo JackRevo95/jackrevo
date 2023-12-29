@@ -1,6 +1,20 @@
 {
     "Music_DB": [
         {
+            "path": "https://jackrevo95.github.io/jackrevo/သွေးချင်း_Lyrics_Video_ရေး_ဆို_OZ256k.mp3",
+            "engtitle": "Thway Chin",
+            "mmtitle": "သွေးချင်း ",
+            "singer": "OZ",
+            "item_point": "1",
+            "music_img": "https://jackrevo95.github.io/jackrevo/Thway Chin.jpg"
+        },{
+            "path": "https://jackrevo95.github.io/jackrevo/ကျွန်တော်ရှေ့တန်းမှာ256k.mp3",
+            "engtitle": "I am at Frontline",
+            "mmtitle": "ကျွန်တော်ရှေ့‌တန်းမှာ ",
+            "singer": "Salai Houng Aung Ling(CDF-Mindat)",
+            "item_point": "1",
+            "music_img": "https://jackrevo95.github.io/jackrevo/frontline.jpg"
+        },{
             "path": "https://jackrevo95.github.io/jackrevo/ရုံးမတက်နဲ့_ရုန်းထွက်256k1.mp3",
             "engtitle": "Yone Ma Tat Nae Yone Htwat",
             "mmtitle": "ရုံးမတက်နဲ့ ရုန်းထွက် ",
